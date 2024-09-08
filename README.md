@@ -1,2 +1,3 @@
-# ponderada-m11-sem5-atividade1
-RNN com biblioteca
+# RNN com biblioteca
+
+Atividade Ponderada 1 Semana 5 - Módulo 11
